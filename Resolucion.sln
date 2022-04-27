@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resolucion", "Resolucion\Resolucion.csproj", "{4CCBFBAE-F19A-4A8C-9478-C8402998AD97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resolucion_grupoSabra", "Resolucion_grupoSabra\Resolucion_grupoSabra.csproj", "{283745F5-307C-40CF-B0EA-FD2957A4835E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CCBFBAE-F19A-4A8C-9478-C8402998AD97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CCBFBAE-F19A-4A8C-9478-C8402998AD97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CCBFBAE-F19A-4A8C-9478-C8402998AD97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CCBFBAE-F19A-4A8C-9478-C8402998AD97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283745F5-307C-40CF-B0EA-FD2957A4835E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283745F5-307C-40CF-B0EA-FD2957A4835E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283745F5-307C-40CF-B0EA-FD2957A4835E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283745F5-307C-40CF-B0EA-FD2957A4835E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {765D3CB2-2950-470F-B74C-260CEFD4C349}
+	EndGlobalSection
+EndGlobal
