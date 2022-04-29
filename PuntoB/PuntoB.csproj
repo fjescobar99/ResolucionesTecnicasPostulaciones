@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{283745F5-307C-40CF-B0EA-FD2957A4835E}</ProjectGuid>
+    <ProjectGuid>{83775A15-EE9B-4DDD-926C-78264B03E358}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Resolucion_grupoSabra</RootNamespace>
-    <AssemblyName>Resolucion_grupoSabra</AssemblyName>
+    <RootNamespace>PuntoB</RootNamespace>
+    <AssemblyName>PuntoB</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
