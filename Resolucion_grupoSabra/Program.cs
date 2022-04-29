@@ -16,13 +16,10 @@ namespace Resolucion_grupoSabra
             ... (hasta tener las 15 líneas, y en la última tener los 15 dígitos)
         */
         static void Main(string[] args)
-        {
-            //MostrarDatos();
+        {            
             MostrarDatos_puntoB();
-
         }
-        /*Realizar una aplicación de consola que ordene un array de números enteros ingresados por
-            parámetro. Y también devolver el promedio.*/
+
         private static void MostrarDatos_puntoB()
         {
             try

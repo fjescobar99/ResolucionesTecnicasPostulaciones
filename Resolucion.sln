@@ -7,6 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resolucion", "Resolucion\Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resolucion_grupoSabra", "Resolucion_grupoSabra\Resolucion_grupoSabra.csproj", "{283745F5-307C-40CF-B0EA-FD2957A4835E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ResolucionGrupoSabra", "ResolucionGrupoSabra", "{A3B49DD0-28FB-4458-9E24-DE18BA36AF4A}"
+	ProjectSection(SolutionItems) = preProject
+		H:\Realizar una aplicación de consola que muestre como salida 15 líneas como estas.docx = H:\Realizar una aplicación de consola que muestre como salida 15 líneas como estas.docx
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuntoC", "PuntoC\PuntoC.csproj", "{AC56E18F-EABB-48CF-B58B-28BED1DB382F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,9 +28,17 @@ Global
 		{283745F5-307C-40CF-B0EA-FD2957A4835E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{283745F5-307C-40CF-B0EA-FD2957A4835E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{283745F5-307C-40CF-B0EA-FD2957A4835E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC56E18F-EABB-48CF-B58B-28BED1DB382F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC56E18F-EABB-48CF-B58B-28BED1DB382F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC56E18F-EABB-48CF-B58B-28BED1DB382F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC56E18F-EABB-48CF-B58B-28BED1DB382F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{283745F5-307C-40CF-B0EA-FD2957A4835E} = {A3B49DD0-28FB-4458-9E24-DE18BA36AF4A}
+		{AC56E18F-EABB-48CF-B58B-28BED1DB382F} = {A3B49DD0-28FB-4458-9E24-DE18BA36AF4A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {765D3CB2-2950-470F-B74C-260CEFD4C349}
